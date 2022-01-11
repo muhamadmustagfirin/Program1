@@ -172,11 +172,11 @@ while True:
 
 - Dibawah adalah hasil ketika program dijalankan, dan memasukkan perintah untuk hapus data yang telah di input sebelumnya, dengan input perintah h pada keyboard, lalu masukkan nama yang ingin di hapus
 
-![gambar6](ss/uas5.PNG)
+![gambar6](ss/uas5.png)
 
 -- Dibawah adalah hasil ketika program dijalankan, dam melihat data apakah sudah terhapus atau belum, dengan input l pada keyboard
 
-![gambar7](ss/uas6.png)
+![gambar7](ss/uas6.PNG)
 
 - Dan dibawah adalah hasil ketika program dijalankan dan input k pada keyboard untuk keluar dari program
 
